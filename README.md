@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -42,4 +41,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # Next-meet-app
 A video calling web application using WEBRTC and Nextjs and many more.
->>>>>>> a1c192e4a2ad7bc986fdf935bbc7c9671a41de7a
